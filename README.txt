@@ -8,3 +8,5 @@
 	psycopg2	- PostgreSQL 
 	socket		- сокет локального соединения
 	sys		- библиотека системного управления
+Схема базы данных Avia в DrawSql
+https://drawsql.app/teams/egorsteam/diagrams/avia
